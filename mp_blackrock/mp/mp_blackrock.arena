@@ -1,0 +1,5 @@
+{
+map "mp_blackrock"
+longname "Blackrock"
+gametype "dm tdm sab ctf ctfb sd koth dom"
+}

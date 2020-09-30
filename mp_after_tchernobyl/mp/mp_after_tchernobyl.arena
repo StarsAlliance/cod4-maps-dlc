@@ -1,0 +1,5 @@
+{
+map "mp_after_tchernobyl_"
+longname "After Tchernobyl"
+gametype "dm sd war koth dom sab ctf ctfb"
+}

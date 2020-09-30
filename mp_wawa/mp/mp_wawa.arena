@@ -1,0 +1,5 @@
+{
+map "mp_wawa"
+longname "Wawa"
+gametype "dm tdm sd sab koth dom"
+}

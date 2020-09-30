@@ -1,0 +1,5 @@
+{
+map "mp_kob_breakout"
+longname "^1[^3KOB^1]^3Breakout"
+gametype "dm sd sab koth tdm hq"
+}
